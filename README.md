@@ -1,4 +1,4 @@
-# MiniPyTorch 🔥
+# MiniPyTorch 
 
 A minimal educational re-implementation of core PyTorch concepts using pure Python.
 
@@ -13,7 +13,7 @@ This project demonstrates:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 mini_pytorch/
 │
@@ -28,7 +28,7 @@ mini_pytorch/
 
 ---
 
-## 🧠 Core Components
+##  Core Components
 
 ### 1. Value (Autograd Engine)
 
