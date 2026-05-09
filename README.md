@@ -17,13 +17,20 @@ This project demonstrates:
 
 mini_pytorch/
 │
-├── minipytorch.py     Autograd engine + ops + losses
-├── Neuron.py          Single neuron definition
-├── Layer.py           Layer built from neurons
-├── MLP.py             Multi-layer neural network
-├── Adam.py            Optimizer
-├── test.py            Training example (XOR)
-└── README.md          Documentation
+
+├── minipytorch.py    :    Autograd engine + ops + losses
+
+├── Neuron.py         :    Single neuron definition
+
+├── Layer.py          :    Layer built from neurons
+
+├── MLP.py            :    Multi-layer neural network
+
+├── Adam.py           :    Optimizer
+
+├── test.py           :    Training example (XOR)
+
+└── README.md         :    Documentation
 
 
 ---
